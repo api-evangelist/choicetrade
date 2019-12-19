@@ -1,0 +1,46 @@
+{
+    "name": "ChoiceTrade",
+    "description": "Get the best online stock trading platform at ChoiceTrade. Offering cheapest flat fee prices for option trading brokers. For more Visit our website!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28336-www-choicetrade-com.jpg",
+    "tags": [
+        "api provider",
+        "api service provider",
+        "financial",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/choicetrade\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "ChoiceTrade",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28336-www-choicetrade-com.jpg",
+            "humanURL": "http:\/\/www.choicetrade.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/choicetrade-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Email",
+            "url": "service@choicetrade.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/ChoiceTrade"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.choicetrade.com"
+        }
+    ]
+}
